@@ -1,0 +1,28 @@
+.accordion-single {
+  margin: 2rem;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.acc-box {
+  margin: 1rem 3rem;
+}
+
+.separator {
+  border: 1px solid rgb(184, 182, 182);
+
+  margin: 0 2rem;
+  margin-bottom: 1rem;
+}
+
+.topic {
+  font-weight: bold;
+  font-size: large;
+  color: rgba(118, 113, 180, 255);
+  /* color: #655dc2; */
+}
+
+.question {
+  font-weight: bold;
+
+  color: rgb(120, 117, 122);
+}
